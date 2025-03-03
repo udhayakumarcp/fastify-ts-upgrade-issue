@@ -1,0 +1,12 @@
+assets/*
+dist
+.env
+.env.*
+node_modules
+tests/assets/*
+.vscode/*
+!.vscode/extensions.json
+.nyc_output
+coverage
+rclone/certificates/*
+rclone_assets/*
